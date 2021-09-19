@@ -1,1 +1,1 @@
-# CityWeather
+City Weather by Ernesto Cirilo Jr.
